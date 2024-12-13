@@ -1,4 +1,4 @@
-Second Project of the UC IA
+Project Description: Predicting the degree of nicotine consumption/dependence based on a person's characteristics 
 
 Project Dataset:
 
